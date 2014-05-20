@@ -1,32 +1,23 @@
-# Code Guide
+# 前端代码规范
 
-Code Guide is a project for documenting standards for developing flexible, durable, and sustainable HTML and CSS. It comes from years of experience writing code on projects of all sizes. It's not the end-all be-all, but it's a start.
+学习代码规范是为了书写出编写灵活、稳定、高质量的 HTML 和 CSS 代码。推荐当作基础语法来学习。该规范来自多年来为不同项目编写代码的经验。It's not the end-all be-all, but it's a start.
 
-**[Start reading ☞](http://mdo.github.io/code-guide)**
+**[浏览英文原版 ☞](http://mdo.github.io/code-guide)**
 
 ---
 
-### License
+### 版权
 
-Released under MIT by, and copyright 2014, @mdo.
+Released under MIT by, and copyright 2014, [@mdo](https://twitter.com/mdo).
 
-### Thanks
+### 鸣谢
 
-Heavily inspired by [Idiomatic CSS](https://github.com/necolas/idiomatic-css) and the [GitHub Styleguide](http://github.com/styleguide).
+深受 [Idiomatic CSS](https://github.com/necolas/idiomatic-css) 和 [GitHub Styleguide](http://github.com/styleguide) 启发。
 
-### Translations
+### 翻译工作
 
-Translations are maintained by their creators and may not always be up to date with the original here.
+以 [Bootstrap中文网](http://www.bootcss.com/) 翻译版为基础，并参考 [Zoom Zhao](https://github.com/ZoomZhao) 翻译版，由[爱特工作室](http://it.ouc.edu.cn/itstudio/) -- [Maplor](https://github.com/maplor) 整理校正。
 
-- [Chinese](http://zoomzhao.github.io/code-guide/) - Translated by [Zoom Zhao](https://github.com/ZoomZhao)
-- [Chinese, Traditional](http://juanitofatas.github.io/code-guide/) - Translated by [Juanito Fatas](https://github.com/JuanitoFatas)
-- [Czech](http://smedzlatko.github.io/) - Translated by [Martin Myslík](https://github.com/Smedzlatko)
-- [Indonesian](http://diagramatics.github.io/code-guide-id) - Translated by [Steven Sinatra](http://diagramatics.me)
-- [Italian](http://alessandro1997.github.io/code-guide/) - Translated by [Alessandro Desantis](https://github.com/alessandro1997)
-- [Portuguese](http://diegoeis.github.io/code-guide/) - Translated by [Diego Eis](http://tableless.com.br/)
-- [Russian](http://instanceofpro.github.io/code-guide/) - Translated by [Eugene Abrosimov](https://github.com/instanceofpro)
-- [Spanish](http://adrianayala.mx/code-guide/es/) - Translated by [Adrian Ayala](http://adrianayala.mx/)
+如有问题，欢迎指正。
 
-Have a translation you'd like to link to? Open a pull request to add it here. Be sure to keep it alphabetical.
-
-<3
+:-)
