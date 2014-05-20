@@ -2,7 +2,10 @@
 
 学习代码规范是为了书写出编写灵活、稳定、高质量的 HTML 和 CSS 代码。推荐当作基础语法来学习。该规范来自多年来为不同项目编写代码的经验。It's not the end-all be-all, but it's a start.
 
-**[浏览英文原版 ☞](http://mdo.github.io/code-guide)**
+
+- [浏览Mdo英文原版 ☞](http://mdo.github.io/code-guide)
+- [浏览Maplor中文翻译版 ☞](http://maplor.github.io/code-guide/)
+
 
 ---
 
